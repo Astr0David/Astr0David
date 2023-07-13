@@ -1,4 +1,6 @@
 <h1 align="center">Hey👋, I'm David</h1>
+<h3 align="center">Currently improving...</h3>
+
 - 🌱 I’m currently learning **React, Node.js, more advanced HTML and CSS**
 
 - 📫 How to reach me **dorimoyegun@outlook.com**
@@ -7,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/david-orimoyegun-110476254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-orimoyegun-110476254" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/astr0david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="astr0david" height="30" width="40" /></a>
-<a href="https://discord.gg/951785199786663936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="951785199786663936" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
