@@ -1,5 +1,4 @@
 <h1 align="center">Hey👋, I'm David</h1>
-<h3 align="center">An aspiring developer from the UK. I am passionate about web development, machine learning and data science.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astr0david" alt="astr0david" /></a> </p>
 
