@@ -1,5 +1,4 @@
 <h1 align="center">Hey👋, I'm David</h1>
-<h3 align="center">Improving...</h3>
 
 <p align="center">- 🌱 I’m currently learning: React, Node.js, more advanced HTML and CSS</p>
 
